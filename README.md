@@ -1,8 +1,6 @@
 - 🅰️ Hi, I’m @thebluehats
-- 🅱️ I’m interested in a lot of things
-- 🅾️ I’m currently having fun
-- 🆎 I’m looking to have more fun
-- 🆑 Have a good day
+- 🅱️ I’m learning and learning and also learning
+- 🆎 Have a good day!
 
 <!---
 thebluehats/thebluehats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
