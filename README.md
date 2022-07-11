@@ -1,5 +1,5 @@
 - Hi, I’m @thebluehats, or CJ.
-- I’m learning, learning, and also learning.
+- I’m learning. Forgive me for any mistake I make.
 - I'm also interested in writing, sudoku puzzles, and music.
 - Have a good day!
 
